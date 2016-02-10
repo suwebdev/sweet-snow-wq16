@@ -3,20 +3,41 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+   
+   
+ul {
+  list-style: none;
+}
 
 
+ul li {
+  list-style: none;
+}
+
+   .add-basket{
+   	background-color: green;
+   }
+
+   .save-basket {
+   	background-color: orange;
+   }
 
 
+   .wish-basket {
+   	background-color: purple;
+   }
 
+   button {
+     color: white;
+     border-radius: 25px;
+     margin-left: 25px;
+     border: 2px solid #73AD21;
+     /*padding: 20px;*/
+     width: 70px;
+     height: 35px;
+     font-size: 9px;
+     padding: 5px;
+     float: right;
+     display: block;
 
-
-
-
-
-
-
-
-
-
-
-
+   }
