@@ -4,6 +4,11 @@
    Author's custom styles
    ========================================================================== */
 
+
+ul li {
+  list-style: none;
+}
+
    .add-basket{
    	background-color: green;
    }
