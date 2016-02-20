@@ -5,13 +5,55 @@
    ========================================================================== */
 
 
-html { 
-    -webkit-font-smoothing: antialiased; 
+<<<<<<< HEAD
+ul {
+  list-style: none;
+}
+
+
+ul li {
+  list-style: none;
+}
+
+   .add-basket{
+   	background-color: green;
+   }
+
+   .save-basket {
+   	background-color: orange;
+   }
+
+
+   .wish-basket {
+   	background-color: purple;
+   }
+
+   button .add-basket .save-basket .wish-basket{
+     color: white;
+     border-radius: 25px;
+     margin-left: 25px;
+     border: 2px solid #73AD21;
+     /*padding: 20px;*/
+     width: 70px;
+     height: 35px;
+     font-size: 9px;
+     padding: 5px;
+     float: right;
+     display: block;
+
+   }
+
+   .author {
+     font-style: italic;
+   }
+=======
+html {
+    -webkit-font-smoothing: antialiased;
 }
 
 body {
     overflow-x: hidden;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 a:link {
@@ -127,3 +169,4 @@ footer {
 }
 
 
+>>>>>>> 9e59f27bfbd1693bb69068c1d0be7e65aa09740b
